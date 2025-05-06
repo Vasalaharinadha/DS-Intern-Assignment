@@ -9,7 +9,6 @@
 
 ## Results
 - Achieved an R² score of 0.89, indicating a good model fit
-- 
 ## Tools Used
 - Python
 - Pandas
